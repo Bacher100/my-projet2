@@ -1,0 +1,8 @@
+# Maven and IDE patterns
+
+target/
+.idea/
+*.iml
+.classpath
+.project
+logs/
